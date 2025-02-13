@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav ul a {
+    text-decoration: none;
+    gap: 10px;
+}
+    
+.main-title {
+    text-align: center;
+}
+.main-title p {
+    align-items: center;
+}
+.sidebar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;    
+}
+.sidebar-title {
+    background-color: rgb(189, 189, 244);
+    border: 2px solid green;
+}
