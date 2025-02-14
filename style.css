@@ -13,13 +13,17 @@ nav ul a {
 .main-title p {
     align-items: center;
 }
-.sidebar {
+.content {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;    
 }
-.sidebar-title {
+.sidebar {
     background-color: rgb(189, 189, 244);
+    border: 2px solid green;
+}
+.main-content {
+    background-color: rgb(218, 218, 251);
     border: 2px solid green;
 }
