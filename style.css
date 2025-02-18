@@ -30,3 +30,10 @@ nav ul a {
     padding-right: 10px;
     padding-bottom: 20px;
 }
+.details input {
+    width: 15rem;
+}
+#message {
+    width: 25rem;
+    height: 10rem;
+}
